@@ -1,91 +1,57 @@
 export const cardsData = [
   {
     id: "card-1",
-    url: "valoraprime.vercel.app",
-    href: "https://valoraprime.vercel.app/",
-    title: "Valora Prime",
-    subtitle: "valoraprime.justcoddev.com",
-    imageSrc: "/img/projects/valoraprime.png",
-    imageAlt: "App icon",
+    url: "The Sovereign Path",
+    href: "/book",
+    title: "The Sovereign Path",
+    subtitle: "Book — Digital Edition with Bitcoin",
+    imageSrc: "/img/notion/white/my-notion-face-transparent.png",
+    imageAlt: "The Sovereign Path Book",
     className: "custom-card-class",
     isNew: true
   },
-  // {
-  //   id: "card-2",
-  //   url: "justcoddev.com",
-  //   href: "https://portfolio.justcoddev.com",
-  //   title: "My Portfolio",
-  //   subtitle: "portfolio.justcoddev.com",
-  //   imageSrc: "/img/notion/white/my-notion-face-transparent.png",
-  //   imageAlt: "Portfolio image",
-  //   className: "custom-card-class-2",
-  //   isNew: false
-  // },
-  // {
-  //   id: "card-3",
-  //   url: "creativex.io",
-  //   href: "https://creativex.io",
-  //   title: "CreativeX",
-  //   subtitle: "creativex.io",
-  //   imageSrc: "/img/projects/001.webp",
-  //   imageAlt: "CreativeX logo",
-  //   className: "custom-card-class-3",
-  //   isNew: false
-  // },
-  // {
-  //   id: "card-4",
-  //   url: "taskifyapp.com",
-  //   href: "https://taskifyapp.com",
-  //   title: "Taskify",
-  //   subtitle: "taskifyapp.com",
-  //   imageSrc: "/img/projects/002.webp",
-  //   imageAlt: "Taskify app logo",
-  //   className: "custom-card-class-4",
-  //   isNew: false
-  // },
-  // {
-  //   id: "card-5",
-  //   url: "mindframe.ai",
-  //   href: "https://mindframe.ai",
-  //   title: "MindFrame AI",
-  //   subtitle: "mindframe.ai",
-  //   imageSrc: "/img/projects/003.webp",
-  //   imageAlt: "MindFrame AI icon",
-  //   className: "custom-card-class-5",
-  //   isNew: false
-  // },
-  // {
-  //   id: "card-6",
-  //   url: "financetrackr.com",
-  //   href: "https://financetrackr.com",
-  //   title: "FinanceTrackr",
-  //   subtitle: "financetrackr.com",
-  //   imageSrc: "/img/notion/white/my-notion-face-transparent.png",
-  //   imageAlt: "FinanceTrackr dashboard",
-  //   className: "custom-card-class-6",
-  //   isNew: false
-  // },
-  // {
-  //   id: "card-7",
-  //   url: "ecoatlas.org",
-  //   href: "https://ecoatlas.org",
-  //   title: "EcoAtlas",
-  //   subtitle: "ecoatlas.org",
-  //   imageSrc: "/img/projects/001.webp",
-  //   imageAlt: "EcoAtlas map icon",
-  //   className: "custom-card-class-7",
-  //   isNew: false
-  // },
-  // {
-  //   id: "card-8",
-  //   url: "skillhub.net",
-  //   href: "https://skillhub.net",
-  //   title: "SkillHub",
-  //   subtitle: "skillhub.net",
-  //   imageSrc: "/img/projects/002.webp",
-  //   imageAlt: "SkillHub learning platform",
-  //   className: "custom-card-class-8",
-  //   isNew: false
-  // }
-
+  {
+    id: "card-2",
+    url: "Hardware Consultation",
+    href: "#consult",
+    title: "Hardware Consultation",
+    subtitle: "1:1 Sovereign Compute Session",
+    imageSrc: "/img/notion/white/my-notion-face-transparent_1.png",
+    imageAlt: "Hardware Consultation",
+    className: "custom-card-class-2",
+    isNew: false
+  },
+  {
+    id: "card-3",
+    url: "Entry Tier Build",
+    href: "#entry",
+    title: "Entry Tier — AI Curious",
+    subtitle: "$800-1,200 — RTX 3060 / M1 Mac",
+    imageSrc: "/img/notion/white/my-notion-face-transparent_2.png",
+    imageAlt: "Entry Tier",
+    className: "custom-card-class-3",
+    isNew: false
+  },
+  {
+    id: "card-4",
+    url: "Medium Tier Build",
+    href: "#medium",
+    title: "Medium Tier — AI Native",
+    subtitle: "$2,000-2,800 — RTX 3090 / M3 Max",
+    imageSrc: "/img/notion/white/my-notion-face-transparent_3.png",
+    imageAlt: "Medium Tier",
+    className: "custom-card-class-4",
+    isNew: false
+  },
+  {
+    id: "card-5",
+    url: "Pro Tier Build",
+    href: "#pro",
+    title: "Pro Tier — Sovereign Compute",
+    subtitle: "$6,000-15,000 — Multi-GPU Workstation",
+    imageSrc: "/img/notion/white/my-notion-face-transparent_4.png",
+    imageAlt: "Pro Tier",
+    className: "custom-card-class-5",
+    isNew: false
+  }
 ];
