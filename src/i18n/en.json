@@ -1,0 +1,69 @@
+{
+  "SEO_TITLE": "HeartForge - Personal Sovereignty & Sacred Tea Ceremony",
+  "SEO_DESCRIPTION": "Building tools for independence. Sharing wisdom through ritual. HeartForge is a community hub for sovereign compute and sacred tea ceremony.",
+  "ERROR_404": {
+    "TITLE": "404 - Not Found",
+    "DESCRIPTION": "Not Found",
+    "BACK_HOMEPAGE_BTN": "Go Back"
+  },
+  "HERO": {
+    "NAME": "HeartForge",
+    "TITLE": "Personal Sovereignty & Sacred Tea",
+    "DESCRIPTION": "Building tools for digital independence. Sharing wisdom through sacred tea ceremony. A community hub for those seeking sovereignty in the modern age."
+  },
+  "ABOUT": {
+    "TITLE": "about",
+    "DESCRIPTION": "About HeartForge"
+  },
+  "NAVBAR": {
+    "PROJECTS": "Sovereign Compute",
+    "ARTICLES": "Tea Sessions",
+    "BOOKSMARKS": "Resources",
+    "EDUCATION_HUB": "Learn",
+    "FUN_HOBBIES": "Community",
+    "SHOP_NOW": "Shop"
+  },
+  "PROJECTS": {
+    "empty": {
+      "message": "Sovereign compute resources coming soon.",
+      "message2": "Hardware guides, local AI setup, and privacy tools."
+    },
+    "BADGE": {
+      "NEW": "New"
+    }
+  },
+  "ARTICLES": {
+    "empty": {
+      "message": "Tea session writeups coming soon.",
+      "message2": "Virtual gatherings and ceremonial wisdom."
+    }
+  },
+  "BOOKSMARKS": {
+    "empty": {
+      "message": "Curated resources coming soon.",
+      "message2": "Books, tools, and guides for sovereignty."
+    }
+  },
+  "EDUCATION_HUB": {
+    "empty": {
+      "message": "Learning resources coming soon.",
+      "message2": "Tutorials on self-hosting, privacy, and independence."
+    }
+  },
+  "FUN_HOBBIES": {
+    "empty": {
+      "message": "Community links coming soon.",
+      "message2": "Connect with others on the sovereign path."
+    }
+  },
+  "SHOP_NOW": {
+    "empty": {
+      "message": "The Sovereign Path book coming soon.",
+      "message2": "Digital edition with Bitcoin payment."
+    }
+  },
+  "NOT_DATA": {
+    "message": "Content coming soon.",
+    "message2": "We're building something special."
+  }
+}
